@@ -13,7 +13,7 @@ I am currently doing alot of interviewing for new team members to join me in the
 I come from a unix/linux background which started all the way back in the 1990s while at University before the Internet was a thing and email was only common to Education institutions. I used the green screen terminals to access my shell and perform basic unix commands which then matured to writing shell scripts that allwoed me to string commands together. The shell scripts were small bits of automation and my first journey into DevOps before it was even a thing. 
 
 ## What is so good about the CLI?
-If you can perfom an action using the command line then you can potentially script the action and then potetially automate it as part of a CI/CD Pipeline. You can also then consider variables and environments and pass parameters when needed to the scripts which all rollup to become DevOps or I like to call it Systems Engineering. You can not achieve this with just GUI knowledge. period. 
+If you can perfom an action using the command line then you can potentially script the action and then potetially automate it as part of a CI/CD Pipeline. You can also then consider variables and environments and pass parameters when needed to the scripts which all rollup to become DevOps or I like to call it Systems Engineering. You can not achieve this with just GUI knowledge. period. To be successful , you will need CLI skills for the cloud (Azure, AWS, GCP).
 
 ## How do I start?
 I would suggest opening up the terminal Mac or a Linux machine and getting familiar with Bash ( popular shell on Bash). Start by using git commands from the command line only rather than pointing and clicking through Visual Studio Code or your favourite IDE. 
@@ -21,7 +21,7 @@ I would suggest opening up the terminal Mac or a Linux machine and getting famil
 So, the next time you want to create a new branch, use the following command
 
 ```bash
-git checkout -b feature/my-new-branch
+$ git checkout -b feature/my-new-branch
 ```
 
 If creating a new text file with some content, how about trying this:
