@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: I talk about Azure | Systems Engineering | DevOps | Upskilling | Platforms | Automation
 ---
 
 My name is Viresh Doshi. I have the following qualities:
@@ -9,8 +9,8 @@ My name is Viresh Doshi. I have the following qualities:
 - I live in England, UK in a town just 15 mins away from London
 - I enjoy running and fitness 
 - I have 4 children
-- I have been in the IT industry for over 20 years
-
+- I have been in the IT industry for over 25 years
+- I work in the Azure and DevOps Automation space
 
 What else do you need?
 
